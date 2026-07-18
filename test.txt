@@ -1,3 +1,4 @@
 hallo welt
 hallo welt auch von person2 <- das ist nett
-zwei banana reich für deri leute
+eine banana reich für drei leute
+drei banana reich für drei leute
